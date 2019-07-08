@@ -1,4 +1,4 @@
-# SpringBoot RabbitMQ example
+# SpringBoot RabbitMQ
 > SpringBoot 整合 RabbitMQ
 
 ## RabbitMQ是什么

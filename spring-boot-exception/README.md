@@ -1,4 +1,4 @@
-# SpringBoot Exception example
+# SpringBoot Exception
 > SpringBoot 异常处理
 
 ## 处理 HTTP 错误
