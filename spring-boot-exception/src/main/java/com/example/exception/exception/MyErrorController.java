@@ -1,4 +1,4 @@
-package com.example.springbootexception.exception;
+package com.example.exception.exception;
 
 import org.springframework.boot.web.servlet.error.ErrorController;
 import org.springframework.http.HttpStatus;
