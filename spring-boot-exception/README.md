@@ -1,2 +1,2 @@
 # SpringBoot Exception example
-> SpringBoot 的异常处理
+> SpringBoot 异常处理
