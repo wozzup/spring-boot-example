@@ -1,13 +1,13 @@
-package com.example.springbootsessionredis;
+package com.example.springbootredis;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SessionRedisApplication {
+public class Application {
 
     public static void main(String[] args) {
-        SpringApplication.run(SessionRedisApplication.class, args);
+        SpringApplication.run(Application.class, args);
     }
 
 }
