@@ -13,6 +13,7 @@
         <module>spring-boot-rabbitmq</module>
         <module>spring-boot-redis</module>
         <module>spring-boot-session-redis</module>
+        <module>spring-boot-swagger2</module>
     </modules>
 
     <build>
