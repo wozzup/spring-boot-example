@@ -129,7 +129,7 @@ Spring Cache 提供了三个操作缓存的注解。
 - allEntries： 是否清空所有缓存内容，缺省为 false，如果指定为 true，则方法调用后将立即清空所有缓存（如：@CacheEvict(value = "user", key = "#id", allEntries = true)）
 - beforeInvocation： 是否在方法执行前就清空，缺省为 false，如果指定为 true，则在方法还没有执行的时候就清空缓存，缺省情况下，如果方法执行抛出异常，则不会清空缓存（如：@CacheEvict(value = "user", key = "#id", beforeInvocation = true)）
 
-参考：
+## 参考：
 - https://www.qikegu.com/spring-boot-tutorial/1320
 - https://www.ibm.com/developerworks/cn/opensource/os-cn-spring-cache/
 - https://docs.spring.io/spring/docs/4.3.15.RELEASE/spring-framework-reference/html/cache.html

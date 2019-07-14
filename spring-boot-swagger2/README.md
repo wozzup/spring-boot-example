@@ -75,3 +75,8 @@ public User getUserInfo(@ApiParam(name="id",value="用户id",required=true) Long
 - @ApiModelProperty 表示对 model 属性的说明或者数据操作更改
 
 启动 SpringBoot 程序，访问`http://localhost:8080/swagger-ui.html`查看 API
+
+## 参考：
+- http://blog.didispace.com/springbootswagger2/
+- https://github.com/swagger-api/swagger-core/wiki
+- https://www.ibm.com/developerworks/cn/java/j-using-swagger-in-a-spring-boot-project/index.html

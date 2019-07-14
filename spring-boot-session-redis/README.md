@@ -35,5 +35,5 @@ public class AppConfiguration {
 ```
 加入这个 Bean 后，Session ID 就不会放到 Cookie，而是放到 HTTP Headers 中。
 
-参考：
+## 参考：
 - https://www.infoq.cn/article/Next-Generation-Session-Management-with-Spring-Session
